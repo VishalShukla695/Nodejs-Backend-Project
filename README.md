@@ -1,5 +1,4 @@
 ## Assignment for Aeonaxy Technologies Private Limited
-https://github.com/VishalShukla695/Nodejs-Backend-Project/blob/main/Screenshot%202024-04-03%20151642.png
 
 In this assignment, we will be leveraging the power of React, a popular JavaScript library for building user interfaces, along with Tailwind CSS, a utility-first CSS framework, to create a dynamic and visually appealing web application for Aeonaxy Technologies Private Limited.
 
