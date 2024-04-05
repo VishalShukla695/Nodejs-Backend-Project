@@ -8,16 +8,12 @@ Tailwind CSS will enable us to rapidly style our components using utility classe
 
 By combining the strengths of React and Tailwind CSS, we aim to deliver a high-quality web application tailored to the specific needs and preferences of Aeonaxy Technologies Private Limited. Our focus will be on creating an intuitive user interface that enhances usability and maximizes engagement, ultimately contributing to the success of Aeonaxy's digital presence.
 
-![Aeonaxy Web View](https://github.com/abduldevlop/Assignment-for-Aeonaxy-Technologies-Private-Limited/blob/main/Screenshot%20(38).png)
-
-![Aeonaxy Mobile View](https://github.com/abduldevlop/Assignment-for-Aeonaxy-Technologies-Private-Limited/blob/main/Screenshot%202024-04-03%20151642.png)
-
 ## Prerequisites
 
 Before we begin, make sure you have the following installed on your system:
 
-- Node.js (v14.x or higher)
-- npm (v6.x or higher) or Yarn (v1.x or higher)
+- Node.js
+- npm 
 - Git
 
 ## Setup Instructions
@@ -27,14 +23,14 @@ Before we begin, make sure you have the following installed on your system:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git remote add origin https://github.com/abduldevlop/Assignment-for-Aeonaxy-Technologies-Private-Limited.git
+git remote add origin https://github.com/VishalShukla695/Nodejs-Backend-Project.git
 
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd aeonaxy-technologies-private-limited
+cd Nodejs-Backend-Project
 ```
 
 ### 3. Install Dependencies
